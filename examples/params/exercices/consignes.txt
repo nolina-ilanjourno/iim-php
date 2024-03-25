@@ -1,0 +1,3 @@
+Récupérez les paramètres 'user' et 'tweets' avec la variable superglobale $_GET.
+
+Une fois récupérés, dans la div "tweets", il faudra afficher le texte suivant : (nombreTweets) tweet(s) de (user).
